@@ -4,6 +4,10 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/HenrySchein-C
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/henry-schein
   - type: Website
     url: https://www.henry-schein.com
 description: >-
