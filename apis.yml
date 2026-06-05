@@ -1,4 +1,6 @@
 aid: henry-schein
+tags:
+  - Fortune 500
 url: 
   https://raw.githubusercontent.com/api-evangelist/henry-schein/refs/heads/main/apis.yml
 modified: '2026-04-28'
