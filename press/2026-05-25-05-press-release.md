@@ -1,7 +1,9 @@
 ---
 title: PRESS RELEASE
 url: https://www.henryschein.com/us-en/images/corporate/2023-03-14_HenrySchein_PressRelease_IDS-2023_English.pdf
-date: '2026-05-25'
+published: '2023-03-14'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Henry Schein" press release artificial intelligence'
 position: 5
 source: serpapi-google

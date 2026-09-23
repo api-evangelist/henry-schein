@@ -1,7 +1,9 @@
 ---
 title: Henry Schein One and AWS Collaborate to Transform ...
 url: https://www.businesswire.com/news/home/20251031477653/en/Henry-Schein-One-and-AWS-Collaborate-to-Transform-Global-Dentistry-with-Generative-AI
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Henry Schein" press release artificial intelligence'
 position: 4
 source: serpapi-google

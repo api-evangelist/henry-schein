@@ -1,7 +1,9 @@
 ---
 title: Henry Schein One Announces Availability of AI Solutions ...
 url: https://investor.henryschein.com/news-releases/news-release-details/2023/Henry-Schein-One-Announces-Availability-of-AI-Solutions-for-Dentrix-Ascend-03-20-2023/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Henry Schein" press release artificial intelligence'
 position: 3
 source: serpapi-google
